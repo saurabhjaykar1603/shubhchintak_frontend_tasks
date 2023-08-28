@@ -1,20 +1,32 @@
-*,body{
-    margin:0;
-    padding:0;
-
-
+*,
+body {
+  margin: 0;
+  padding: 0;
 }
 
-.box-1{
-    width:40%;
-    
+.box-1 {
+  width: 40%;
 }
-.box-1 img{
-    height:370px;
+.box-1 img {
+  height: 370px;
 }
-.box-2{
-    width:60%;
-    background-color:  #fbffa7;
-    height:80vh;
-    
+.box-2 {
+  width: 60%;
+  background-color: #fbffa7;
+  height: 80vh;
 }
+
+.box-3 {
+  width: 60%;
+  background-color: #b6ffc0;
+}
+.box-4 {
+  width: 40%;
+  height: 90vh;
+}
+.box-4 img {
+    height: 470px;
+    width: 670px;
+
+}
+

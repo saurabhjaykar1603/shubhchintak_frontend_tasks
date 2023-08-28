@@ -1,0 +1,20 @@
+*,body{
+    margin:0;
+    padding:0;
+
+
+}
+
+.box-1{
+    width:40%;
+    
+}
+.box-1 img{
+    height:370px;
+}
+.box-2{
+    width:60%;
+    background-color:  #fbffa7;
+    height:80vh;
+    
+}
